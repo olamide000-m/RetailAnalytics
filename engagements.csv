@@ -1,0 +1,4 @@
+CustomerID,InteractionType,Date,Duration
+1,Website Visit,2025-03-01,180
+2,Email Click,2025-03-02,45
+2,Website Visit,2025-03-03,90
